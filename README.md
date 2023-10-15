@@ -60,7 +60,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+
 ![274476162-811c0f72-054a-4099-ba6e-ef782eeb36e5](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/2488729d-6ddf-4ecb-b212-ee57aeb172a1)
 ![274478343-7e480048-75aa-46c0-96bd-4defba482e34](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/06792162-d777-4114-99e9-9857206fa258)
 ![274478361-d88449d3-eaa4-40ea-b695-92e358955e5e](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/b3caa813-92c6-4977-8c2b-503ade2712ca)
