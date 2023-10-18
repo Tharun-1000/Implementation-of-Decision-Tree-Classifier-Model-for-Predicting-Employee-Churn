@@ -8,11 +8,16 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+1.Start the program 
+2.Import the python pandas library as pd 
+3.Read the dataset of Employee csv file 
+4.Display the data information using info() method 
+5.Import the LabelEncoder for preprocessing of the dataset 
+6.Assign the columns for x and y 
+7.From sklearn library import the Decision Tree Classifier to predict the values 
+8.Print the accuracy of the dataset 
+9.Predict the decision tree using random values 
+10.Stop the program
 ## Program:
 ```
 /*
@@ -61,32 +66,33 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-![274476162-811c0f72-054a-4099-ba6e-ef782eeb36e5](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/2488729d-6ddf-4ecb-b212-ee57aeb172a1)
-![274478343-7e480048-75aa-46c0-96bd-4defba482e34](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/06792162-d777-4114-99e9-9857206fa258)
-![274478361-d88449d3-eaa4-40ea-b695-92e358955e5e](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/b3caa813-92c6-4977-8c2b-503ade2712ca)
-![274478373-775406df-949b-439d-8a27-0c8425a24b54](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/f8366394-6ccc-4ac2-80da-3f3f7487148b)
-![274478384-5d8fde41-30a8-49fd-953c-acca1b09318c](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/300116d8-1848-450d-8d57-27862f45ba65)
+1.Initial data set
 
-![274478420-bfe39807-23a7-4ffb-8243-04e8ab1c8833](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/88166a59-44f9-41d1-8edf-6ae497ff0fc1)
-![274478448-c96f10c1-ea52-4589-b8f3-e6c70b1703ea](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/872ca0ce-0aa2-4edc-a1c2-c3697c3ac59d)
-![274478461-779e97fd-c1ad-4747-8ab0-dcfb6d7107d7](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/73975d3b-8d59-4fad-8a34-09896f1d594c)
+![image](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/018c7609-cf9c-4910-8c3f-5d79e9b23dec)
 
+2.Data Info
 
+![image](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/634663c9-efeb-4bda-8f9f-54eebeae433f)
 
+3.Optimization of null values
 
+![image](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/e03ec597-9149-41b4-b08d-4aed309a53f6)
 
+4.Assignment of X and Y values
 
+![image](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/a5b994d0-701a-4a9f-bb9a-cf33c35f28c7)
 
+5.Converting string literals to numerical values using label encoder
 
+![image](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/225201c8-da8f-45fb-99c6-e3151a684753)
 
+6.Accuracy
 
+![image](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/d8202ecb-e5c7-49df-a293-97585ba1ba16)
 
+7.Prediction
 
-
-
-
-
-
+![image](https://github.com/Tharun-1000/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135952958/f6147dfe-3436-4fa1-a988-3d32844e1780)
 
 
 ## Result:
